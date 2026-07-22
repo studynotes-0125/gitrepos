@@ -1,0 +1,23 @@
+body{
+    background:#f4f4f4;
+    font-family:Arial,sans-serif;
+}
+
+.connection{
+    width:60%;
+    margin:60px auto;
+    background:white;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0 0 10px gray;
+}
+
+
+h1{
+    color:#fd0ba0;
+    text-align:center;
+}
+
+p{
+    font-size:20px;
+}
